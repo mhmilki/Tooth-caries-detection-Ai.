@@ -1,0 +1,3 @@
+,0
+images,"['test\\caries\\wc1.jpg', 'test\\caries\\wc2.jpg', 'test\\caries\\wc44.jpg', 'test\\caries\\wc45.jpg', 'test\\caries\\wc49.jpg', 'test\\caries\\wc50.jpg', 'test\\caries\\wc51.jpeg', 'test\\caries\\wc55.jpg', 'test\\caries\\wc56.jpg', 'test\\caries\\wc8.jpg', 'test\\no-caries\\nc1.jpg', 'test\\no-caries\\nc10.jpg', 'test\\no-caries\\nc2.jpg', 'test\\no-caries\\nc9.jpg']"
+target,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]"
